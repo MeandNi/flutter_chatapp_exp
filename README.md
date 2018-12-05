@@ -1,6 +1,10 @@
-# errortest
+# Flutter1-Chat_APP
 
-A new Flutter project.
+In this tutorial, we build a basic cross platform native chat application using the dart flutter framework.  
+
+![Flutter](assets/Flutter.gif)
+
+
 
 ## Getting Started
 
